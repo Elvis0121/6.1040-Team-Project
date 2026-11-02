@@ -23,6 +23,12 @@
 - Learn to resolve version control issues, such as merge conflicts.
 - Build a project that I am proud to showcase and list on GitHub.
 
+#### Diego
+- Understand how to work on software design in a team environment.
+- Learn to adapt to member roles and how to rely on others for SWE.
+- Get more expirience designing software with concept design.
+- Make something that I can show off to demonstrate valuable SWE skills (resume farming).
+
 ## 3. Team Meetings and Communication
 
 - **Frequency:** Once a week.
