@@ -23,7 +23,7 @@
 - Learn to resolve version control issues, such as merge conflicts.
 - Build a project that I am proud to showcase and list on GitHub.
 
-#### Diego
+### Diego
 - Understand how to work on software design in a team environment.
 - Learn to adapt to member roles and how to rely on others for SWE.
 - Get more expirience designing software with concept design.
