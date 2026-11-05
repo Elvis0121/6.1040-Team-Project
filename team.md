@@ -14,7 +14,3 @@ A: Not sure.
 
 
 
-Q:
-
-A:
-
