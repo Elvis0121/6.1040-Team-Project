@@ -9,7 +9,9 @@ You should structure your critique in three parts:
 
 ### I liked
 
-The idea of building on top of existing streaming platforms
+The idea of building on top of existing streaming platforms.
+
+Commenting by given timestamps is great for review and going back.
 
 ### I wish
 
