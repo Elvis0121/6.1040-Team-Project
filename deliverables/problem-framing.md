@@ -7,55 +7,53 @@
 
 # Problem framing
 
+
 ## Domain
 Our problem domain is shared informal meals within trusted communities - such as university campuses and workplaces - that extend beyond a person's immediate circle of close friends. Sharing a meal is one of the easiest ways to explore new local restaurants, unwind after classes or work, or celebrate holidays away from family. On campuses, people also occasionally gather at dining halls for quick weeknight meals or subsidized group dinners. While people sometimes choose to eat alone for quiet downtime, there are frequent occasions when someone wants company at a table but their close friends are busy or out of town.
 
-When their immediate circle is unavailable, people turn to broader communities they belong to: dorms, classes, research labs, clubs, or workplace teams. To do this, they communicate through mailing lists, class forums, and existing group chats. Shared membership gives acquaintances a baseline of trust that makes eating together feel comfortable. Three groups are involved in these meals:
+When their immediate circle is unavailable, people turn to broader communities they belong to: dorms, classes, research labs, clubs, or workplace teams. To do this, they communicate through mailing lists, class forums, and existing group chats, as their shared membership gives acquaintances a baseline of trust that makes eating together feel comfortable. Three groups are involved in these meals:
 - **Hosts** are community members - students, coworkers, undergraduate academic advisors, or Graduate Resident Advisors (GRAs, live-in dorm mentors who often host meals using dorm budgets or dining-hall swipes) - who want company for a meal or want to help peers connect. They usually have a time window (and often a restaurant or dining hall) in mind, and need firm commitments before booking a table.
 - **Prospective guests** are peers in those same channels who want to join a meal to try a new restaurant or avoid eating alone, without having to rally a group from scratch or feel like they are intruding on an existing clique. Unlike close friends, acquaintances do not know each other's dietary restrictions, price sensitivity, or cuisine tastes.
 - **Bystanders** are peers in those same channels who aren't interested, whether they are busy or would rather eat alone, yet end up dealing with noisy channels when meal planning devolves into long back-and-forth threads.
 
-Currently, hosts who want to open a meal beyond their close friends send static messages in group chats or mailing lists, or share makeshift spreadsheets and forms. Social event planning tools (such as Partiful) and existing restaurant booking platforms (such as OpenTable) each have their niche: Partiful works well for collecting RSVPs once a host already knows what event they are throwing, while OpenTable handles booking a table once the restaurant and headcount are settled. Neither helps an acquaintance group move smoothly from "who is free?" to an agreed-upon restaurant and a complete reservation.
+Currently, hosts who want to open a meal beyond their close friends send static messages in group chats or mailing lists, or share makeshift spreadsheets and forms. Social event planning tools (such as Partiful) and existing restaurant booking platforms (such as OpenTable) each have their niche: Partiful works well for collecting RSVPs once a host already knows what event they are throwing, while OpenTable handles booking a table once the restaurant and headcount are settled. However, neither helps an acquaintance group move smoothly from "who is free?" to an agreed-upon restaurant and a complete reservation.
 
 
 ## Bad situations
 
-- International students during holidays
-- GRAs/advisors doing spreadsheets for bonding
-- Fraternity & dorm GRAs inviting undergraduates to sign up for meal swipes
-- Can do more
+Across both ordinary weeks and holidays, existing channels fail informal meal groups at three recurring points: shy peers stall trying to align unfamiliar diets and budgets, peer hosts lose commitments ahead of booking deadlines without a clean way to reopen seats, and community mentors watch static signup sheets lock out interested residents.
 
-### Bad Situation 1: Holiday-Break Straggler
+### Bad Situation 1: Shy Holiday-Break Straggler
 #### Steps Leading Up:
-Noah is an international student from Singapore living on campus. For him, flights home are extremely expensive, especially for a mere four-day weekend. Because of this, Noah stays home at his dorm over Thanksgiving break while his close friends leave campus. However, Noah is still connected to broader community channels, such as his dorm mailing list, cultural club chats, and class/lab forums.
+Noah is an international student from Singapore living in a campus dorm. Flying home for a four-day Thanksgiving break, or any other short holiday, is far too expensive, so he stays behind while his close friends travel home. However, Noah is still part of broader trusted communities, including his dorm mailing list, cultural club chat, and class forums.
 
 #### Moment of Difficulty:
-Although Noah’s family doesn’t traditionally celebrate Thanksgiving, it feels extremely isolating to know that all his friends are home celebrating with their family while he’s stuck on campus; Noah would love to share a Thanksgiving dinner rather than eat alone in the dining hall. So, even though it’s a little embarrassing and uncomfortable, Noah ends up sending an open-ended message like “Anyone around for Thanksgiving dinner?” to the aforementioned channels. Many people end up reaching out to Noah!
+Although Noah's family does not traditionally celebrate Thanksgiving, it feels isolating to know that all his friends are home celebrating with their families while he is stuck on campus; Noah would love to share a Thanksgiving dinner rather than eat alone in the dining hall. Because Noah is shy, posting *"Anyone around for Thanksgiving dinner?"* feels exposing, and scrolling older messages leaves him unsure whether any existing plans still have room. When he finally posts, five acquaintances message him with *"maybe, depends where and how much."* Unlike his close friends, Noah does not know who is vegetarian or halal, what their budgets look like, or who refuses to walk far in the cold. Every restaurant he suggests hits polite pushback over price, diet, or distance, and nobody wants to be the demanding stranger who forces the choice.
 
 #### Consequences:
-Other prospective guests could be left unsure whether seats are still available or if they would be intruding, so they feel too shy to ask. Additionally, Noah now has to figure out how to coordinate between all these new guests and pick a location that everyone will like. Everyone goes around in a circle and shares their preferences and perhaps some possible locations, with the group voting on a time and place.
+By the time the back-and-forth drags late into the night, people bail to grab fast food or drift off, leaving Noah eating alone anyway. Additionally, peers who saw his post a few hours late assumed the group had already formed and ate alone rather than risk intruding, a stall that repeats across holidays, long weekends, and summer internships whenever close circles scatter.
 
 
-### Bad Situation 2: Holiday-Break Host
+### Bad Situation 2: Weeknight Restaurant Explorer Trapped by Soft Replies and Stale Invites
 #### Steps Leading Up:
-Alice & co. are booking a reservation for a restaurant. However, they would be delighted to have more guests added to their reservation, as not only would it present the opportunity to form new connections, but it would be slightly cheaper for everyone involved.
+Alice recently started working at a new job and wants to try a neighborhood tapas spot on Thursday night. Her close friends are swamped or live across town, and the restaurant requires a firm headcount by Wednesday evening to hold a table of four to six. She wants to open extra seats to coworkers in a team Slack so she can share dishes, split the bill, and get to know acquaintances she only nods to in passing.
 
 #### Moment of Difficulty:
-Although it’s outside of her comfort zone - she’s normally not extremely extroverted - Alice decides to post open invitations to all the group chats and class forums she’s a part of, the message being along the lines of “If anyone is interested, we have open seats for a Thanksgiving dinner!” Only a few people end up reaching out to Alice, curious if there are still seats available, and about the time/place and cuisine. Alice individually responds to each of these inquiries, repeating the same information multiple times.
+On Tuesday, Alice drops a casual note: *"Thinking of trying dinner at 7:30 Thursday, anyone want to join?"* Rather than clear commitments she can book against, she fields scattered questions - *"How pricey?"*, *"Still room?"*, *"Can I bring a friend?"* - and ends up repeating the same answers across side messages while cluttering the channel for busy bystanders. By Tuesday night, four peers have replied *"sounds good!"* or *"maybe"*, so Alice assumes the table is full and tells a fifth interested coworker there are no more spots. On Wednesday afternoon, one of the four realizes they have a conflict and backs out over text. Because the original invite is buried in Slack history, Alice cannot gracefully let the channel know that seats have reopened without sending another noisy blast.
 
 #### Consequences:
-Other potential hosts hesitate to open up their own tables, as it would feel like they are competing with Alice. Additionally, some prospective guests end up not responding due to the friction of having to ask just to see if there are still seats available and if they could make it to the event.
+By Wednesday evening's booking deadline, Alice is stuck either locking in a smaller table - leaving out the fifth coworker she already turned away and other quiet peers who never knew seats reopened - or scrambling through DMs to find replacements. After repeating this herding effort a few times on ordinary weeknights, hosts stop opening tables to wider circles at all.
 
 
-### Bad Situation 3: GRA Dining Hall Invitations (TODO; unfinished)
+### Bad Situation 3: GRA and Advisor Meal-Swipe Spreadsheets Going Stale
 #### Steps Leading Up:
-GRAs often provide opportunities for residents to get free meal swipes and bond. They send out spreadsheets of availabilities and signups
+Maya is a Graduate Resident Advisor (GRA) for a student dorm floor. She receives a recurring budget and guest meal swipes meant to help students step away from coursework and bond over informal meals. Every weekend, Maya wants to take ten residents to a campus dining hall or nearby casual spot without turning it into a stiff, formal event.
 
 #### Moment of Difficulty:
-If not active, residents are unsure if the sheets are actively monitored. Sheet signups are messy, and they always have to end up coordinating which dining hall.
+To cap group size, Maya emails the floor a shared Google Sheet with ten signup rows. Within hours, the sheet breaks down in two ways. First, when slots fill quickly, the sheet looks finalized to anyone who checks email later; even if a student later removes their name because of a midterm conflict, past viewers have no reason to reopen the spreadsheet and never learn a spot opened unless Maya emails the whole floor again. Second, when slots fill slowly, residents cannot tell whether the meal is still happening, so hesitant residents skip signing up.
 
 #### Consequences:
-gsdkglnsodkgsobgaibasidoais
+Maya arrives at the dining hall with empty spots that could have gone to interested residents on the same floor who saw a full sheet earlier and ate alone instead. Over the semester, GRAs and advisors tire of chasing spreadsheets and answering one-off emails, and cut back on hosting informal weekend meals, shrinking one of the easiest ways for busy students to meet peers outside their classes.
 
 
 ## Corroboration (TODO; unfinished)
