@@ -115,6 +115,11 @@ Partiful and Facebook Events collect invitations and RSVPs, which is the right j
 None of these returns a released place to other people in the community who never got the original message, and none of them lets news of a home gathering circulate while the street address stays with the people who have claimed a place. Several critiques suggested profiles so a guest could judge whether they would get along with a host. A profile might answer that question. It would not tell Noah that a Maseeh slot had opened, or that he was allowed to take it.
 
 ## Solution sketch (TODO; unfinished)
+A host creates a private table which is accessible through a shareable link. Users are directed to create an account and curate a profile of tastes and preferences, if they haven't already.
+
+
+
+
 A host creates a gathering card for a community they belong to, such as MIT, a dorm, or a department. The card has a link they can drop into the chat or the mailing list they already use. Following the link lets an eligible person sign up, including creating an account if they do not have one. Claiming a place still requires a check that they belong to the community on the card. We plan to use an affiliated email where that establishes membership. A narrower group, such as one dorm, may need an additional check. The link can travel. Receiving it is not the same as being eligible, which is the Zoom-link constraint from mentoring. Noah can learn that a gathering exists without having been on the original email, and someone outside the community still cannot take the place.
 
 The card states the activity, the date and time, how many seats are open, and when the invitation expires. It states what, if anything, a guest is expected to bring: nothing, a dish that is optional, a dish that is expected, or a meal swipe. Dietary or religious information goes on the card when it would change whether someone can actually attend.
