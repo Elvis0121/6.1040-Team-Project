@@ -1,10 +1,3 @@
-**note to critics: a group member recently left our group; if you are critiquing this, we would highly appreciate if you could wait until the morning of 11/13 (when this note is gone)**
-
-**check back again to see the updated commit link to this file**
-
-*thank you so much*
-
-
 # Problem framing
 
 
@@ -56,7 +49,7 @@ To cap group size, Maya emails the floor a shared Google Sheet with ten signup r
 Maya arrives at the dining hall with empty spots that could have gone to interested residents on the same floor who saw a full sheet earlier and ate alone instead. Over the semester, GRAs and advisors tire of chasing spreadsheets and answering one-off emails, and cut back on hosting informal weekend meals, shrinking one of the easiest ways for busy students to meet peers outside their classes.
 
 
-## Corroboration (TODO; unfinished)
+## Corroboration
 The local evidence that bears on the seat, rather than on loneliness in general, is Silk's account of the Maseeh-night sheet: a fixed number of slots, filled by names, closed to anyone who saw the email late. A classmate who has spent Thanksgiving on campus also recognized the situation in our pitch. Both are single accounts. They make the situation familiar at MIT. They do not show how often it happens.
 
 Yale and Buffalo are the public version of the host's count. Thanksgiving at Home tells students that a place depends on a host's confirmation, and it asks them to keep the day free because a late cancellation falls on a family that has already planned the meal. Thanksgiving without Borders says registration does not guarantee placement, and that a last-minute cancellation wastes the host's time and money. These offices already treat a casual yes as too weak to cook from, and they still leave some students without a place. They also cover one holiday, not a GRA dinner in March or a game night on a long weekend. They do not show that software would create more hosts. They show that a list of interested people is not yet a seat.
@@ -66,7 +59,7 @@ Forum posts are weaker, and they point in two directions. In a Berkeley thread, 
 The studies explain why Noah hesitates to post, and they do not explain the spreadsheet. Epley and Schroeder found that commuters told to talk with a nearby stranger reported a better ride than commuters told to sit alone, while a separate group predicted the opposite, in part because they underestimated the stranger's willingness (Mistakenly Seeking Solitude, 2014). A train is not a potluck. The relevant piece is the hesitation before the first message. Chandler and colleagues surveyed 255 students at one UK university and found higher loneliness among those who ate alone because they were uneasy reaching out, uncomfortable eating with others, or had nobody to eat with. About 16% scored in the severe range on the ULS-8. The study is cross-sectional, so it cannot say that eating alone caused the loneliness, and the campus is not ours (Chandler et al., 2026). Interviews with 13 students at an English university, about meals before the 2020 lockdown, split the same way as the Berkeley thread. Some students wanted the solo meal as a break. Others avoided the canteen so they would not be seen sitting alone (Food and Foodways, 2024). An invitation can matter to the second group. It should not be imposed on the first.
 
 
-## Workarounds and comparables (TODO; unfinished)
+## Workarounds and comparables
 - invites:
   - Group chats
   - Forums like piazza or commons
