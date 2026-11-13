@@ -1,34 +1,106 @@
+**note to critics: a group member recently left our group; if you are critiquing this, we would highly appreciate if you could wait until the morning of 11/13 (when this note is gone)**
+
+**check back again to see the updated commit link to this file**
+
+*thank you so much*
+
+
 # Problem framing
 
 ## Domain
+Our problem domain is informal dining with a trusted community that expands beyond one’s immediate circle - such as university campuses like MIT. In this setting, community members eat daily meals across various venues, including dining halls, cafes, and local restaurants. Shared dining serves as a way for students to decompress, celebrate holidays or cultural observances - even when away from family, strengthen weak ties with acquaintances, or explore new tastes and locations. While students sometimes choose to eat alone for intentional downtime, there are frequent occasions when someone wants company for a meal but is unsure whether anyone else would be interested.
 
-During Thanksgiving and other breaks, students who stay on campus may want company without knowing who else is around. Dorm chats are an obvious place to ask, but many of the people in the chat would have already left. Posting "anyone around?" can also feel uncomfortable for most people, especially when everyone can see that nobody replied.
+Coordinating informal meals across this broader community is difficult for two main reasons. The first of these reasons is planning around inharmonious schedules. At MIT, as well as at many other universities, students have a wide range of class, club, and family commitments that mean their schedules are not often in line with those of their close friends. When a student’s immediate circle is unavailable though, there likely exist other acquaintances - such as classmates, club members, or lab partners - who would be available.
 
-At the same time, there may be other people also staying on campus who are willing to host or participate in group activities (here a group is defined as having 2+ people). A GRA might organize a meal, a professor might invite students over for a potluck, or someone might have room for a few more people at an eat-and-game night. The hosts need a way to reach people who would like to come and get a headcount they can use to plan. If they are hosting at home, they also need to share their address without sending it to everyone who might receive a forwarded invitation. In the same manner, potential attendees have no reliable way of knowing who is hosting what.
+The second of these coordination challenges is individuals’ diverse dining preferences and constraints. Even when two people are available at the same time, sharing a meal requires aligning factors such as desired cuisine, distance, and intended dynamic.
 
-Our project focuses on small gatherings among people who share an affiliation, such as MIT, a dorm, or a department. The host already wants to organize something and has space for others to join. This could be dinner, a potluck, or just snacking plus playing games in a lounge. The host decides how many people can come and whether guests need to bring anything. As was suggested by course staff (Daniel Jackson), our model for connecting people will be similar to the one Zoom uses with their links: an invitation will be able to circulate, but receiving the link does not automatically make someone eligible to join.
+Expanding beyond a small, immediate circle to a wider, trusted community makes it far more likely to find peers whose schedules and preferences align. However, because informal meals lack the explicit structure of formal events, signaling openness and coordinating across these variables with acquaintances introduces significant social friction.
 
-We are interested in situations where someone would like company and someone is willing to host, but they have trouble finding each other or making a clear plan. We also realize that staying on campus or eating alone is not necessarily a problem. Some students enjoy having a quiet break, and our project will leave room for such a choice.
+
+
+
+
+
+
+<!-- One might want to try new food or
+
+
+NOTE: decision paralysis
+Recommending does also address eating alone
+
+
+One reason this can be difficult is the differences in availability
+
+Inviting people can be difficult due to differences in availability and preferences, and can be especially difficult around the holidays when many friends are gone.
+
+Tastes, preferences, availability; logistically difficult overall
+Extending open invites is hard
+Sometimes it’s GRAs, classmates, advisors, etc. just looking to bond/form tighter connnections
+E.g. just dropping a spreadsheet link or an interest form
+Often a lot of these plans just fall apart, and people ironically end up eating by themselves in shared spaces -->
+
 
 ## Bad situations
 
-Consider Noah, an international student from Singapore, staying in his dorm over Thanksgiving while his friends travel home. On Wednesday evening he wants dinner, or a game, with other students who are still on campus. He checks the dorm chat. Most of the people in it have left, and when he asks whether anyone wants to do something, the few who might still be around do not answer. He eats the food he bought earlier from Cambridge Pizza. The next long weekend he does not ask. A quiet night is a small cost on its own. What raises the cost is that a place may already have existed: a GRA dinner with a spare seat, or a professor who would have been glad of another person at a potluck. Those invitations moved through an email or some other list Noah was not on. He could not see the open place, and the host could not see him.
+- International students during holidays
+- GRAs/advisors doing spreadsheets for bonding
+- Fraternity & dorm GRAs inviting undergraduates to sign up for meal swipes
+- Can do more
 
-The spreadsheet is where that failure becomes specific. In a C1 critique, Silk, a classmate who lived in East Campus, described how GRAs organized Maseeh nights by emailing a sheet with about 30 signup slots. Students typed their names into cells. Anyone who noticed the email late found the sheet full. A slot on that sheet is the scarce thing, and a name in a cell is not a person who will walk in. The host can buy food for thirty names and still serve fewer people, because the sheet never asks anyone to give a slot back when their plans change. A student who would have taken a freed slot either missed the email or saw it only after the cells had filled. The host has a cap. She does not have a count she can cook from, and the students still on campus do not have the seat.
+### Bad Situation 1: Holiday-Break Straggler
+#### Steps Leading Up:
+Noah is an international student from Singapore living on campus. For him, flights home are extremely expensive, especially for a mere four-day weekend. Because of this, Noah stays home at his dorm over Thanksgiving break while his close friends leave campus. However, Noah is still connected to broader community channels, such as his dorm mailing list, cultural club chats, and class/lab forums.
 
-A professor inviting students to a potluck has a shorter list and a message that is harder to send. She may be glad to have people over whether or not they bring a dish, and she still has to decide how much food to prepare. If the evening is at her apartment, the address has to reach the people who are actually coming. Putting it in the invitation does that, and the invitation is also what gets forwarded. Writing separately to each interested student means she is tracking, one conversation at a time, who has committed. "I might come" does not tell her whether to hold the place. A lounge game night never needs a street address, and it still has this last problem: the organizer cannot tell whether to save the fourth chair.
+#### Moment of Difficulty:
+Although Noah’s family doesn’t traditionally celebrate Thanksgiving, it feels extremely isolating to know that all his friends are home celebrating with their family while he’s stuck on campus; Noah would love to share a Thanksgiving dinner rather than eat alone in the dining hall. So, even though it’s a little embarrassing and uncomfortable, Noah ends up sending an open-ended message like “Anyone around for Thanksgiving dinner?” to the aforementioned channels. Many people end up reaching out to Noah!
 
-## Corroboration
+#### Consequences:
+Other prospective guests could be left unsure whether seats are still available or if they would be intruding, so they feel too shy to ask. Additionally, Noah now has to figure out how to coordinate between all these new guests and pick a location that everyone will like. Everyone goes around in a circle and shares their preferences and perhaps some possible locations, with the group voting on a time and place.
 
+
+### Bad Situation 2: Holiday-Break Host
+#### Steps Leading Up:
+Alice & co. are booking a reservation for a restaurant. However, they would be delighted to have more guests added to their reservation, as not only would it present the opportunity to form new connections, but it would be slightly cheaper for everyone involved.
+
+#### Moment of Difficulty:
+Although it’s outside of her comfort zone - she’s normally not extremely extroverted - Alice decides to post open invitations to all the group chats and class forums she’s a part of, the message being along the lines of “If anyone is interested, we have open seats for a Thanksgiving dinner!” Only a few people end up reaching out to Alice, curious if there are still seats available, and about the time/place and cuisine. Alice individually responds to each of these inquiries, repeating the same information multiple times.
+
+#### Consequences:
+Other potential hosts hesitate to open up their own tables, as it would feel like they are competing with Alice. Additionally, some prospective guests end up not responding due to the friction of having to ask just to see if there are still seats available and if they could make it to the event.
+
+
+### Bad Situation 3: GRA Dining Hall Invitations (TODO; unfinished)
+#### Steps Leading Up:
+GRAs often provide opportunities for residents to get free meal swipes and bond. They send out spreadsheets of availabilities and signups
+
+#### Moment of Difficulty:
+If not active, residents are unsure if the sheets are actively monitored. Sheet signups are messy, and they always have to end up coordinating which dining hall.
+
+#### Consequences:
+gsdkglnsodkgsobgaibasidoais
+
+
+## Corroboration (TODO; unfinished)
 The local evidence that bears on the seat, rather than on loneliness in general, is Silk's account of the Maseeh-night sheet: a fixed number of slots, filled by names, closed to anyone who saw the email late. A classmate who has spent Thanksgiving on campus also recognized the situation in our pitch. Both are single accounts. They make the situation familiar at MIT. They do not show how often it happens.
 
-Yale and Buffalo are the public version of the host's count. [Thanksgiving at Home](https://oiss.yale.edu/programs-events/thanksgiving-at-home-nov-2026) tells students that a place depends on a host's confirmation, and it asks them to keep the day free because a late cancellation falls on a family that has already planned the meal. [Thanksgiving without Borders](https://www.buffalo.edu/international-student-services/workshops-trips-events/thanksgiving-without-borders.students.html) says registration does not guarantee placement, and that a last-minute cancellation wastes the host's time and money. These offices already treat a casual yes as too weak to cook from, and they still leave some students without a place. They also cover one holiday, not a GRA dinner in March or a game night on a long weekend. They do not show that software would create more hosts. They show that a list of interested people is not yet a seat.
+Yale and Buffalo are the public version of the host's count. Thanksgiving at Home tells students that a place depends on a host's confirmation, and it asks them to keep the day free because a late cancellation falls on a family that has already planned the meal. Thanksgiving without Borders says registration does not guarantee placement, and that a last-minute cancellation wastes the host's time and money. These offices already treat a casual yes as too weak to cook from, and they still leave some students without a place. They also cover one holiday, not a GRA dinner in March or a game night on a long weekend. They do not show that software would create more hosts. They show that a list of interested people is not yet a seat.
 
-Forum posts are weaker, and they point in two directions. In a [Berkeley thread](https://www.reddit.com/r/berkeley/comments/1gx4dh6/staying_on_campus_over_thanksgiving_what_can_i/), an international student staying in the dorms while friends went home wrote about being lonely, with dining limited on top of that. One reply, from someone who had stayed, described an almost empty building and said the quiet had been a relief. In a [Maryland thread](https://www.reddit.com/r/UMD/comments/pin4f4/since_dining_halls_wont_be_open_during/), an international student who could not leave asked what to do once dining halls closed, and a reply pointed toward faculty who host students. That reply only helps if the student already knows the list exists, which is Noah's problem in another form. These are anonymous posts from other campuses, and people who had a hard week are more likely to write them. They do support a distinction we should keep: some students want company over a break, and some want the quiet. The gatherings in this project are for the first group. Students in the second group should not have to do anything.
+Forum posts are weaker, and they point in two directions. In a Berkeley thread, an international student staying in the dorms while friends went home wrote about being lonely, with dining limited on top of that. One reply, from someone who had stayed, described an almost empty building and said the quiet had been a relief. In a Maryland thread, an international student who could not leave asked what to do once dining halls closed, and a reply pointed toward faculty who host students. That reply only helps if the student already knows the list exists, which is Noah's problem in another form. These are anonymous posts from other campuses, and people who had a hard week are more likely to write them. They do support a distinction we should keep: some students want company over a break, and some want the quiet. The gatherings in this project are for the first group. Students in the second group should not have to do anything.
 
-The studies explain why Noah hesitates to post, and they do not explain the spreadsheet. Epley and Schroeder found that commuters told to talk with a nearby stranger reported a better ride than commuters told to sit alone, while a separate group predicted the opposite, in part because they underestimated the stranger's willingness ([Mistakenly Seeking Solitude](https://doi.org/10.1037/a0037323), 2014). A train is not a potluck. The relevant piece is the hesitation before the first message. Chandler and colleagues surveyed 255 students at one UK university and found higher loneliness among those who ate alone because they were uneasy reaching out, uncomfortable eating with others, or had nobody to eat with. About 16% scored in the severe range on the ULS-8. The study is cross-sectional, so it cannot say that eating alone caused the loneliness, and the campus is not ours ([Chandler et al., 2026](https://doi.org/10.3390/ijerph23060739)). Interviews with 13 students at an English university, about meals before the 2020 lockdown, split the same way as the Berkeley thread. Some students wanted the solo meal as a break. Others avoided the canteen so they would not be seen sitting alone ([Food and Foodways, 2024](https://doi.org/10.1080/07409710.2024.2333119)). An invitation can matter to the second group. It should not be imposed on the first.
+The studies explain why Noah hesitates to post, and they do not explain the spreadsheet. Epley and Schroeder found that commuters told to talk with a nearby stranger reported a better ride than commuters told to sit alone, while a separate group predicted the opposite, in part because they underestimated the stranger's willingness (Mistakenly Seeking Solitude, 2014). A train is not a potluck. The relevant piece is the hesitation before the first message. Chandler and colleagues surveyed 255 students at one UK university and found higher loneliness among those who ate alone because they were uneasy reaching out, uncomfortable eating with others, or had nobody to eat with. About 16% scored in the severe range on the ULS-8. The study is cross-sectional, so it cannot say that eating alone caused the loneliness, and the campus is not ours (Chandler et al., 2026). Interviews with 13 students at an English university, about meals before the 2020 lockdown, split the same way as the Berkeley thread. Some students wanted the solo meal as a break. Others avoided the canteen so they would not be seen sitting alone (Food and Foodways, 2024). An invitation can matter to the second group. It should not be imposed on the first.
 
-## Workarounds and comparables
+
+## Workarounds and comparables (TODO; unfinished)
+- invites:
+  - Group chats
+  - Forums like piazza or commons
+  - Lab slacks
+  - partiful
+  - Etc.
+- Managing resources/headcounts:
+  - Google sheets
+  - Google forms
+
 
 Group chats are what Noah already has. They reach the people in the chat, and over a break many of those people have left. A message asking for company can go unanswered even when someone nearby would have come. A reply of "I might come" also does not hold a place, and the silence is visible to the rest of the chat, which is part of why the next ask does not get sent.
 
@@ -42,11 +114,10 @@ Partiful and Facebook Events collect invitations and RSVPs, which is the right j
 
 None of these returns a released place to other people in the community who never got the original message, and none of them lets news of a home gathering circulate while the street address stays with the people who have claimed a place. Several critiques suggested profiles so a guest could judge whether they would get along with a host. A profile might answer that question. It would not tell Noah that a Maseeh slot had opened, or that he was allowed to take it.
 
-## Solution sketch
-
+## Solution sketch (TODO; unfinished)
 A host creates a gathering card for a community they belong to, such as MIT, a dorm, or a department. The card has a link they can drop into the chat or the mailing list they already use. Following the link lets an eligible person sign up, including creating an account if they do not have one. Claiming a place still requires a check that they belong to the community on the card. We plan to use an affiliated email where that establishes membership. A narrower group, such as one dorm, may need an additional check. The link can travel. Receiving it is not the same as being eligible, which is the Zoom-link constraint from mentoring. Noah can learn that a gathering exists without having been on the original email, and someone outside the community still cannot take the place.
 
-The card states the activity, the date and time, how many places are open, and when claims close. It states what, if anything, a guest is expected to bring: nothing, a dish that is optional, a dish that is expected, or a meal swipe. Dietary or religious information goes on the card when it would change whether someone can actually attend.
+The card states the activity, the date and time, how many seats are open, and when the invitation expires. It states what, if anything, a guest is expected to bring: nothing, a dish that is optional, a dish that is expected, or a meal swipe. Dietary or religious information goes on the card when it would change whether someone can actually attend.
 
 A person who meets those terms claims an open place without waiting for the host to approve them individually. Feedback on approval was mixed. Approval would let a host control who attends, and it would also make the claim feel like asking to be accepted. The host sets the community, the capacity, and the terms before anyone claims. People who fit those terms take an open place until the count is reached.
 
@@ -59,17 +130,18 @@ One peer described wanting to open the app and see what was happening on a given
 The system cannot make the evening go well, and it cannot make people into friends. One critique noted that we are not responsible for a meal that turns out awkward, and that matches the limit of this sketch. We plan to pilot at MIT around breaks, and also for dorm gatherings of the same kind during ordinary weeks, so the card is useful on more than one Thursday and the scope stays within what we can build.
 
 ## Ethical analysis
-
 The analysis below uses the four lecture dimensions required by F2. Each entry identifies the dimension, the relevant Envisioning Cards prompt, and the design choice it informs. Multi-lifespan cards are outside the scope of this assignment.
 
-**Indirect stakeholders: home addresses.** A potluck at a professor's apartment also commits roommates and neighbors, who cannot opt out and have no account. A street address on the shareable card follows every forward. The card shows the general area, and the address is visible only while someone holds a place. Dining halls and lounges can be listed in full. A guest can still pass an address on later.
+**Indirect stakeholders:** home addresses. A potluck at a professor's apartment also commits roommates and neighbors, who cannot opt out and have no account. A street address on the shareable card follows every forward. The card shows the general area, and the address is visible only while someone holds a place. Dining halls and lounges can be listed in full. A guest can still pass an address on later.
 
-**Values: community and dignity in who gets a place.** Approval of each guest protects an evening, and it makes a spare seat depend on whether a stranger seems pleasant. Profiles sort people before they meet. The host sets community, capacity, and terms such as food or a contribution. Anyone inside those terms claims an open place. Nobody is ranked. Hosts can no longer turn one person away. Guests and reluctant hosts both avoid that rejection.
+**Values:** community and dignity in who gets a place. Approval of each guest protects an evening, and it makes a spare seat depend on whether a stranger seems pleasant. Profiles sort people before they meet. The host sets community, capacity, and terms such as food or a contribution. Anyone inside those terms claims an open place. Nobody is ranked. Hosts can no longer turn one person away. Guests and reluctant hosts both avoid that rejection.
 
-**Time: non-use and the invitation link.** If a gathering exists only in the app, students who never install it miss an open place the way they missed the Maseeh email. Each card has a link the host can send in the old chat or mailing list. Claiming still checks membership in the selected community. Reminders go only to people holding a place. Students who want a quiet break are not prompted to attend.
+**Time:** non-use and the invitation link. If a gathering exists only in the app, students who never install it miss an open place the way they missed the Maseeh email. Each card has a link the host can send in the old chat or mailing list. Claiming still checks membership in the selected community. Reminders go only to people holding a place. Students who want a quiet break are not prompted to attend.
 
-**Pervasiveness: what "bring something" comes to mean.** If most cards tell guests to bring food, students who stayed because travel was already expensive are shut out, and an optional dish starts to sound required. The default is that nothing is required. A host marks a contribution optional or expected. A dietary or religious note on the same card helps a guest who cannot eat the meal, and a host who would otherwise guess.
+**Pervasiveness:** what "bring something" comes to mean. If most cards tell guests to bring food, students who stayed because travel was already expensive are shut out, and an optional dish starts to sound required. The default is that nothing is required. A host marks a contribution optional or expected. A dietary or religious note on the same card helps a guest who cannot eat the meal, and a host who would otherwise guess.
 
-**Values: community and safety at private homes.** An open board would show Noah more gatherings, and it would let someone outside the community claim a place at an apartment. Some first-years are under 18. Claims stay in the community the host selects, and a home address stays off the shareable card. Shared affiliation is not safety. Home stays allowed, because hosts already use email, and there the address circulates with no check.
+**Values:** community and safety at private homes. An open board would show Noah more gatherings, and it would let someone outside the community claim a place at an apartment. Some first-years are under 18. Claims stay in the community the host selects, and a home address stays off the shareable card. Shared affiliation is not safety. Home stays allowed, because hosts already use email, and there the address circulates with no check.
 
-**Time: reappropriation, once a place means something else.** If open places are used for dates or large parties, a student looking for a small meal can no longer trust the day list. Types stay meals, potlucks, and game nights, and a card closes with its window. There is no follower list. A released place returns as a seat. Some misuse will remain, and the list can still mean a small gathering has room.
+**Time:** reappropriation, once a place means something else. If open places are used for dates or large parties, a student looking for a small meal can no longer trust the day list. Types stay meals, potlucks, and game nights, and a card closes with its window. There is no follower list. A released place returns as a seat. Some misuse will remain, and the list can still mean a small gathering has room.
+
+
