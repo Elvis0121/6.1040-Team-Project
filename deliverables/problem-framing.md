@@ -8,36 +8,14 @@
 # Problem framing
 
 ## Domain
-Our problem domain is informal dining with a trusted community that expands beyond one’s immediate circle - such as university campuses like MIT. In this setting, community members eat daily meals across various venues, including dining halls, cafes, and local restaurants. Shared dining serves as a way for students to decompress, celebrate holidays or cultural observances - even when away from family, strengthen weak ties with acquaintances, or explore new tastes and locations. While students sometimes choose to eat alone for intentional downtime, there are frequent occasions when someone wants company for a meal but is unsure whether anyone else would be interested.
+Our problem domain is shared informal meals within trusted communities - such as university campuses and workplaces - that extend beyond a person's immediate circle of close friends. Sharing a meal is one of the easiest ways to explore new local restaurants, unwind after classes or work, or celebrate holidays away from family. On campuses, people also occasionally gather at dining halls for quick weeknight meals or subsidized group dinners. While people sometimes choose to eat alone for quiet downtime, there are frequent occasions when someone wants company at a table but their close friends are busy or out of town.
 
-Coordinating informal meals across this broader community is difficult for two main reasons. The first of these reasons is planning around inharmonious schedules. At MIT, as well as at many other universities, students have a wide range of class, club, and family commitments that mean their schedules are not often in line with those of their close friends. When a student’s immediate circle is unavailable though, there likely exist other acquaintances - such as classmates, club members, or lab partners - who would be available.
+When their immediate circle is unavailable, people turn to broader communities they belong to: dorms, classes, research labs, clubs, or workplace teams. To do this, they communicate through mailing lists, class forums, and existing group chats. Shared membership gives acquaintances a baseline of trust that makes eating together feel comfortable. Three groups are involved in these meals:
+- **Hosts** are community members - students, coworkers, undergraduate academic advisors, or Graduate Resident Advisors (GRAs, live-in dorm mentors who often host meals using dorm budgets or dining-hall swipes) - who want company for a meal or want to help peers connect. They usually have a time window (and often a restaurant or dining hall) in mind, and need firm commitments before booking a table.
+- **Prospective guests** are peers in those same channels who want to join a meal to try a new restaurant or avoid eating alone, without having to rally a group from scratch or feel like they are intruding on an existing clique. Unlike close friends, acquaintances do not know each other's dietary restrictions, price sensitivity, or cuisine tastes.
+- **Bystanders** are peers in those same channels who aren't interested, whether they are busy or would rather eat alone, yet end up dealing with noisy channels when meal planning devolves into long back-and-forth threads.
 
-The second of these coordination challenges is individuals’ diverse dining preferences and constraints. Even when two people are available at the same time, sharing a meal requires aligning factors such as desired cuisine, distance, and intended dynamic.
-
-Expanding beyond a small, immediate circle to a wider, trusted community makes it far more likely to find peers whose schedules and preferences align. However, because informal meals lack the explicit structure of formal events, signaling openness and coordinating across these variables with acquaintances introduces significant social friction.
-
-
-
-
-
-
-
-<!-- One might want to try new food or
-
-
-NOTE: decision paralysis
-Recommending does also address eating alone
-
-
-One reason this can be difficult is the differences in availability
-
-Inviting people can be difficult due to differences in availability and preferences, and can be especially difficult around the holidays when many friends are gone.
-
-Tastes, preferences, availability; logistically difficult overall
-Extending open invites is hard
-Sometimes it’s GRAs, classmates, advisors, etc. just looking to bond/form tighter connnections
-E.g. just dropping a spreadsheet link or an interest form
-Often a lot of these plans just fall apart, and people ironically end up eating by themselves in shared spaces -->
+Currently, hosts who want to open a meal beyond their close friends send static messages in group chats or mailing lists, or share makeshift spreadsheets and forms. Social event planning tools (such as Partiful) and existing restaurant booking platforms (such as OpenTable) each have their niche: Partiful works well for collecting RSVPs once a host already knows what event they are throwing, while OpenTable handles booking a table once the restaurant and headcount are settled. Neither helps an acquaintance group move smoothly from "who is free?" to an agreed-upon restaurant and a complete reservation.
 
 
 ## Bad situations
